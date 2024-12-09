@@ -2,7 +2,3 @@ name: SpigotMail
 version: '1.0-SNAPSHOT'
 main: org.hypno.spigotMail.SpigotMail
 api-version: '1.21'
-commands:
-  send_package:
-    description: Send an item to another player
-    usage: /<command>
